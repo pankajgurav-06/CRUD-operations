@@ -1,0 +1,26 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+table {
+  width: 100%;
+}
+
+.navbar{
+  // color: aliceblue;
+  background-color: #f75b30;
+}
+
+.navbar-brand{
+  color: rgb(255, 251, 251);
+  font-size: 25px;
+}
+
+.nav-link{
+  color: rgb(255, 251, 251);
+  font-size: 15px;
+}
+
+.nav-link:hover{
+  font-size: 17px;
+}
